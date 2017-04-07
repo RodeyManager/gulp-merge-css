@@ -1,0 +1,32 @@
+{
+  "name": "gulp-merge-css",
+  "version": "1.0.0",
+  "description": "merge css file",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodeyManager/gulp-merge-css.git"
+  },
+  "keywords": [
+    "concat",
+    "css"
+  ],
+  "author": "Rodey Luo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodeyManager/gulp-merge-css/issues"
+  },
+  "homepage": "https://github.com/RodeyManager/gulp-merge-css#readme",
+  "dependencies": {
+    "gulp-concat-css": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
