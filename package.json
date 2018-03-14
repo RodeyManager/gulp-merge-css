@@ -1,32 +1,33 @@
 {
-  "name": "gulp-merge-css",
-  "version": "1.0.1",
-  "description": "merge css file",
-  "main": "index.js",
-  "directories": {
-    "example": "example"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/RodeyManager/gulp-merge-css.git"
-  },
-  "keywords": [
-    "concat",
-    "css"
-  ],
-  "author": "Rodey Luo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/RodeyManager/gulp-merge-css/issues"
-  },
-  "homepage": "https://github.com/RodeyManager/gulp-merge-css#readme",
-  "dependencies": {
-    "gulp-concat-css": "^2.3.0"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1"
-  }
+    "name": "gulp-merge-css",
+    "version": "1.0.2",
+    "description": "merge css file",
+    "main": "index.js",
+    "directories": {
+        "example": "example"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RodeyManager/gulp-merge-css.git"
+    },
+    "keywords": [
+        "concat",
+        "css"
+    ],
+    "author": "Rodey Luo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/RodeyManager/gulp-merge-css/issues"
+    },
+    "homepage": "https://github.com/RodeyManager/gulp-merge-css#readme",
+    "dependencies": {
+        "gulp-concat-css": "^3.1.0",
+        "plugin-error": "^1.0.1"
+    },
+    "devDependencies": {
+        "gulp": "^3.9.1"
+    }
 }
